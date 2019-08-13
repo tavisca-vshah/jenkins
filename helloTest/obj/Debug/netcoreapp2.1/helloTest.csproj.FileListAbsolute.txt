@@ -1,0 +1,17 @@
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.csprojAssemblyReference.cache
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.csproj.CoreCompileInputs.cache
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.AssemblyInfoInputs.cache
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.AssemblyInfo.cs
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\helloTest.deps.json
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\helloTest.runtimeconfig.json
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\helloTest.runtimeconfig.dev.json
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\helloTest.dll
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\helloTest.pdb
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\hello.dll
+C:\C# training project\helloTest\bin\Debug\netcoreapp2.1\hello.pdb
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.csproj.CopyComplete
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.dll
+C:\C# training project\helloTest\obj\Debug\netcoreapp2.1\helloTest.pdb
